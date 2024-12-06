@@ -1,4 +1,4 @@
-# GeneticTSP
+# evolutionary-tsp
 Project for the course Evolutionary Algorithms [H02D1a] at KU Leuven. It is an implementation of an evolutionary algorithms for the *Traveling Salesman Problem* in Python.
 
  A utility module `run.py` has been added to make it easy to run from the command line.
